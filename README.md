@@ -2,7 +2,7 @@
 * **😄 I'm looking for Data Science/Data Analytic Positions.**
 * **💻 I've worked with Python and Machine Learning tools primarily.**
 * **🔢 I'm experienced in Statistical Analysis.**
-* **⭐ Interested in the Pharmaceutical/Healthcare Industries.**
+* **⭐ Worked on various clinical datasets and created prediction models.**
 
 <!--
 **MpatiM/MpatiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
