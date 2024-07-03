@@ -1,5 +1,5 @@
 ## Hi there, I'm Medha 👋
-* **😄 I'm looking for Data Science/Data Analysis Positions.**
+* **😄 I'm looking for Data Science/Data Analytic Positions.**
 * **💻 I've worked with Python and Machine Learning tools primarily.**
 * **🔢 I'm experienced in Statistical Analysis.**
 * **⭐ Interested in the Pharmaceutical/Healthcare Industries.**
