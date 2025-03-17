@@ -1,5 +1,4 @@
 ## Hi there, I'm Medha 👋
-* **😄 I'm looking for Data Science/Data Analytic Positions.**
 * **💻 I've worked with Python and Machine Learning tools primarily in combination with SQL.**
 * **🔢 I'm experienced in Statistical Analysis and Visualization Dashboards.**
 * **⭐ Worked on various clinical and healthcare datasets. Created prediction models and reports.**
